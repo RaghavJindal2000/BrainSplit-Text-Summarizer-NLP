@@ -1,22 +1,12 @@
-# checkmate-full
 
 ## **Prerequisites**: 
 Python 3.5 and above, NodeJs and pip3.
 
-## **First time Setup**
-Clone the directory.
 After cloning please make sure to download the "Glove.6B.100d.txt" from [here](https://www.kaggle.com/danielwillgeorge/glove6b100dtxt)
 
 Place the file in the root folder.
 
-Navigate to the basic-app folder in terminal
-
-```
-~ $ cd basic-app
-```
-Make sure you have the latest version of NodeJs installed.
-
-from the basic-app directory run the following to install all the dependencies
+from the directory run the following to install all the dependencies
 ```
 ~ $ npm i -y
 ```
